@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "buildScript": "yarn build",
+  "buildOutput": ".vuepress/dist",
+  "branch": "master",
+  "name": "test-repo"

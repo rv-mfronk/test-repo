@@ -1,0 +1,20 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedVentures/test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.0.2",
+    "vuepress-theme-nebula": "^0.3.0"
+  }
+}
